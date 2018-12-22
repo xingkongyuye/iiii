@@ -1,0 +1,75 @@
+面试题相关：
+
+    1、http://web.jobbole.com/85122/
+
+    2、http://www.w3cplus.com/css/front-end-web-development-quiz.html
+
+    3、https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers  【荐】
+
+前端知识库：
+
+    1、http://webres.wang/about-front-end-interview/
+
+    2、https://github.com/JacksonTian/fks  【荐】
+
+    3、http://web.jobbole.com/83473/
+
+
+前端技巧与提高：
+
+    1、如何帮助前端新人入门和提高？
+    https://www.zhihu.com/question/19862294
+
+    2、jQuery设计思想
+    http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html
+
+    3、web前端知识体系大全
+    http://www.cnblogs.com/wangfupeng1988/p/4649709.html
+
+    4、编码规范
+    http://zoomzhao.github.io/code-guide/#html-doctype
+
+教程类：
+
+    1、JavaScript教程
+    https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000
+
+    2、JavaScript 指南
+    https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide
+
+工具类：
+
+    1、cdn:(即可在线引入js资源的网站)
+    https://www.bootcdn.cn/
+
+    2、json在线验证
+    http://www.bejson.com/
+
+    3、web前端等在线工具
+    https://tool.lu/
+
+    4、浏览器、用户等在线统计
+    http://tongji.baidu.com/data/browser/
+
+    5、web前端导航网站收集
+    http://www.alloyteam.com/nav/
+
+著名互联网公司的前端团队博客地址：（基本都是用WordPress搭建）
+
+    1、360
+    http://uxc.360.cn/#
+
+    2、阿里巴巴国际
+    http://www.aliued.com/
+
+    3、百度前端
+    http://fex.baidu.com/
+
+    4、腾讯前端
+    http://www.alloyteam.com/webdevelop/
+
+    5、淘宝前端团队
+    http://taobaofed.org/
+
+    6、新浪前端团队
+    http://ued.sina.com.cn/?cat=4
